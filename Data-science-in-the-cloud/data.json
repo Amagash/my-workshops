@@ -1,0 +1,21 @@
+{
+    "infos": {
+        "title": "Data Science in the cloud",
+        "github": "https://github.com/Amagash/my-workshops",
+        "description": "Something"
+    },
+    "authors": [
+        {
+            "name": "Tiffany Souterre",
+            "url": "https://twitter.com/tiffanysouterre",
+            "avatar": "tiff.png"
+        }
+    ],
+    "resources": [
+        {
+            "label": "The Show me SWA video series",
+            "type": "fab fa-youtube",
+            "link": "https://www.youtube.com/watch?v=w-tLZjO6XMc&list=PLlrxD0HtieHgMPeBaDQFx9yNuFxx6S1VG"
+        }
+    ]
+}
