@@ -1,5 +1,5 @@
 ---
-title: L'Algo Deutsch-Jozsa
+title: Data Science in the Cloud
 ---
 
 --sep--
@@ -7,9 +7,11 @@ title: L'Algo Deutsch-Jozsa
 title: Introduction
 ---
 
-# Microsoft Dev Roadshow - Programmation Quantique
+# Microsoft Dev Roadshow - Data Science in the Cloud
 
 ## Introduction
+
+Dans ce TP, nous allons apprendre comment entraîner, déployer et consommer un modèle de machine learning sur Azure. 
 
 Vous allez réaliser le kata de l'algorithme [DeutschJoszaAlgorihtm](https://github.com/microsoft/QuantumKatas/tree/master/DeutschJozsaAlgorithm)
 
