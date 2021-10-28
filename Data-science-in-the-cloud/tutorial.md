@@ -11,7 +11,10 @@ title: Introduction
 
 ## Introduction
 
-Dans ce TP, nous allons apprendre comment entraîner, déployer et consommer un modèle de machine learning sur Azure. 
+Dans ce TP, nous allons apprendre comment entraîner, déployer et consommer un modèle de machine learning sur Azure en low-code/no-code. 
+Nous verrons plusieurs outils sur Azure pour vous permettre de
+
+
 
 Vous allez réaliser le kata de l'algorithme [DeutschJoszaAlgorihtm](https://github.com/microsoft/QuantumKatas/tree/master/DeutschJozsaAlgorithm)
 
