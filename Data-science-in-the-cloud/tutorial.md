@@ -29,14 +29,14 @@ title: Objectif du workshop
 
 ## Objectif du workshop
 
-Ce workshop, accessible à **tous les développeurs même sans connaissance en programmation quantique**, vous permettra de comprendre les principes de base de la programmation quantique à travers un exemple simple.
+Ce workshop, accessible à **tous les développeurs même sans connaissance en programmation**, vous permettra de découvrir les outils sur Azure qui vous permettrons de faire un projet de machine learning de bout en bout. 
 
-L'algorithme de Deutsch-Jozsa n'a aucun usage pratique mais est connu pour être un des premiers exemple d'algorithme quantique potentiellement plus rapide qu'aucun algorithme deterministe classique.
-
-Pour en apprendre plus :
-* Un bon endroit pour commencer est [wikipedia](https://fr.wikipedia.org/wiki/Algorithme_de_Deutsch-Jozsa).
-* Nielsen, M. A. & Chuang, I. L. (2010). Quantum Computation and Quantum Information. pp. 34-36
-* [Lecture 5: A simple searching algorithm; the Deutsch-Jozsa algorithm](https://cs.uwaterloo.ca/~watrous/CPSC519/LectureNotes/05.pdf).
+1. Créer un Azure ML workspace
+2. Choisir les bonnes ressources de calculs
+3. Trouver et charger un dataset
+4. Entraîner un modèle de machine learning avec AutoML
+5. Déployer le modèle sur Azure
+6. Consommer le modèle
 
 --sep--
 ---
