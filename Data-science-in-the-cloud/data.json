@@ -13,9 +13,9 @@
     ],
     "resources": [
         {
-            "label": "The Show me SWA video series",
-            "type": "fab fa-youtube",
-            "link": "https://www.youtube.com/watch?v=w-tLZjO6XMc&list=PLlrxD0HtieHgMPeBaDQFx9yNuFxx6S1VG"
+            "label": "The Data Science in the cloud curriculum",
+            "type": "fa-brands fa-github",
+            "link": "https://github.com/microsoft/Data-Science-For-Beginners/tree/main/5-Data-Science-In-Cloud/?ocid=AID3041109"
         }
     ]
 }
