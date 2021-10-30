@@ -2,7 +2,7 @@
     "infos": {
         "title": "Data Science in the cloud",
         "github": "https://github.com/Amagash/my-workshops",
-        "description": "Something"
+        "description": "Entraîner, déployer et consommer un modèle de machine learning en quelques cliques sur Azure."
     },
     "authors": [
         {
