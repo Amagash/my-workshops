@@ -12,7 +12,7 @@ title: Introduction
 ## Introduction
 
 Dans ce TP, nous allons apprendre comment entraîner, déployer et consommer un modèle de machine learning sur Azure en low-code/no-code. 
-Nous verrons plusieurs outils sur Azure pour vous permettre de
+Nous verrons plusieurs outils sur Azure Machine Learning Studio.
 
 
 
