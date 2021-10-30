@@ -11,8 +11,9 @@ title: Introduction
 
 ## Introduction
 
-Dans ce workshop, nous allons apprendre comment entraîner, déployer et consommer un modèle de machine learning sur Azure en low-code/no-code. 
-Nous verrons plusieurs outils sur Azure Machine Learning Studio.
+Dans ce workshop, nous allons apprendre comment entraîner, déployer et consommer un modèle de machine learning sur Azure en low-code/no-code. Nous utiliserons un dataset en open source sur Kaggle afin de créer un modèle de machine learning d'aide au diagnostique de patients suceptibles de faire une crise cardiaque. 
+
+![schema](umages/schema.png)
 
 ## Pré-requis
 
