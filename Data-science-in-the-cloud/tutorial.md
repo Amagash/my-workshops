@@ -11,23 +11,16 @@ title: Introduction
 
 ## Introduction
 
-Dans ce TP, nous allons apprendre comment entraîner, déployer et consommer un modèle de machine learning sur Azure en low-code/no-code. 
+Dans ce workshop, nous allons apprendre comment entraîner, déployer et consommer un modèle de machine learning sur Azure en low-code/no-code. 
 Nous verrons plusieurs outils sur Azure Machine Learning Studio.
-
-
-
-Vous allez réaliser le kata de l'algorithme [DeutschJoszaAlgorihtm](https://github.com/microsoft/QuantumKatas/tree/master/DeutschJozsaAlgorithm)
-
-Ce kata peut être réalisé sans installation d’un environnement en utilisant Binder. Le matériel requis se limite à une machine et une connexion internet. Il est également possible de réaliser le kata localement en utilisant un jupyter notebook. Cela permet d’avoir une syntaxe colorée. On privilégiera l’utilisation de Binder.
 
 ## Pré-requis
 
 Afin de réaliser ce workshop, vous aurez besoin: 
 
 - D'un ordinateur avec un navigateur internet
+- D'un [compte Azure](https://ms.portal.azure.com/). Si vous n'en avez pas, nous allons voir comment activer votre compte.
 - Et c'est tout !
-
-Des compétences basiques sur les [portes logiques](https://fr.wikipedia.org/wiki/Fonction_logique) sont recommandées
 
 --sep--
 ---
