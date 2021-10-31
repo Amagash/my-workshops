@@ -44,21 +44,30 @@ Si vous êtes étudiants, vous devriez avoir accès à des crédits Azure gratui
 
 --sep--
 ---
-title: Objectif du workshop
+title: Objectifs du workshop
 ---
 
-## Objectif du workshop
+## Objectifs du workshop
 
 Ce workshop, accessible à **tous les développeurs même sans connaissance en programmation**, vous permettra de découvrir les outils sur Azure qui vous permettrons de faire un projet de machine learning de bout en bout. 
 
 1. Créer un Azure ML workspace
 2. Choisir les bonnes ressources de calculs
-3. Trouver et charger un dataset
+3. Charger un dataset
 4. Entraîner un modèle de machine learning avec AutoML
 5. Déployer le modèle sur Azure
 6. Consommer le modèle
 
 --sep--
 ---
-title: Préparation
+title: Dataset
 ---
+
+## Trouver un dataset
+
+Kaggle est un site où il est possible de faire des projets de Data Science/Machine Learning. On peut y trouver de nombreux datasets en open source. Dans ce workshop, nous allons travailler avec le [Heart Failure dataset](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data).
+
+1. Téléchargez le dataset.
+2. Explorez l'excel et regardez la description des données sur Kaggle afin de bien comprendre le dataset.
+
+
