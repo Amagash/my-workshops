@@ -11,7 +11,7 @@ title: Introduction
 
 ## Introduction
 
-Dans ce workshop, nous allons apprendre comment entraîner, déployer et consommer un modèle de machine learning sur Azure en low-code/no-code. Nous utiliserons un dataset en open source sur Kaggle afin de créer un modèle de machine learning d'aide au diagnostique de patients suceptibles de faire une crise cardiaque. 
+Dans ce workshop, nous allons apprendre comment entraîner, déployer et consommer un modèle de machine learning sur Azure en low-code/no-code. Nous utiliserons un dataset en open source sur Kaggle afin de créer un modèle de machine learning d'aide au diagnostique de patients suceptibles de faire une crise cardiaque. Afin de mener à bien ce projet, nous allons suivre l'architecture suivante:
 
 ![schema](media/schema.png)
 
@@ -20,8 +20,27 @@ Dans ce workshop, nous allons apprendre comment entraîner, déployer et consomm
 Afin de réaliser ce workshop, vous aurez besoin: 
 
 - D'un ordinateur avec un navigateur internet
-- D'un [compte Azure](https://ms.portal.azure.com/). Si vous n'en avez pas, nous allons voir comment activer votre compte.
+- D'un [compte Azure](https://ms.portal.azure.com/). Si vous n'en avez pas, suivez les étapes dans la partie suivante.
 - Et c'est tout !
+
+## Créer un compte Azure
+
+Si vous êtes étudiants, vous devriez avoir accès à des crédits Azure gratuitement. Pour réclamer vos crédits suivez les étapes suivantes:
+
+1. Allez sur le [portail Azure](https://ms.portal.azure.com/) et connectez-vous avec votre adresse mail de votre école. 
+2. Une fois sur le portail, écrivez "Education" dans la barre de recherche et allez dans la section Education. 
+3. Cliquez sur l'encadré en bleu "Claim you Azure credit now".
+
+![schema](media/credit.png)
+
+4. Vous devriez être redirigé vers une nouvelle page. Cliquez sur le bouton "Start free".
+
+![schema](media/start.png)
+
+5. A l'issue du formulaire à remplir, un code vous sera envoyé par SMS afin d'activer vos crédits.
+6. Retournez sur le portail Azure et écrivez "Subscriptions" ou "Abonnements" si vous êtes en français.
+7. Dans la liste de vos abonnements, vous devriez voir votre souscription étudiante (Décocher la case "Show only subscriptions selected in the global subscriptions filter").
+8. Vous êtes prêt.e pour la suite du workshop!
 
 --sep--
 ---
