@@ -65,7 +65,7 @@ title: Dataset
 
 ## Trouver un dataset
 
-Kaggle est un site où il est possible de faire des projets de Data Science/Machine Learning. On peut y trouver de nombreux datasets en open source. Dans ce workshop, nous allons travailler avec le [Heart Failure dataset](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data).
+Kaggle est un site où il est possible de faire des projets de Data Science/Machine Learning. On peut y trouver de nombreux datasets en open source. Dans ce workshop, nous allons travailler avec le [Heart Failure dataset](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data). Dans le Kaggle, il est possible de télécharger le dataset en cliquant sur le bouton "Download Dataset".
 
 1. Téléchargez le dataset.
 2. Explorez l'excel et regardez la description des données sur Kaggle afin de bien comprendre le dataset.
